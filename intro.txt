@@ -1,8 +1,2 @@
---Giới thiệu bản thân--: Tôi tên là Lê Văn Hậu
-Năm sinh: 25/08/2003
-Quê quán: Cà Mau
-Giới tính: Nam
-Lớp: DH22TIN05
-* Sở thích của tôi là: Đi du lịch, học tiếng anh, xem phim, chơi game ...
-* Kỹ năng: biết lập trình C++,C#,Python
-Kế hoạch học tập: ôn luyện tiếng anh để chuẩn bị cho kì thi VSTEP, Học Python, và làm bài tập về nhà
+Xin chào, tôi là Lê Văn Hậu
+Tôi đang học về Git conflict resolution
