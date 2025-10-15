@@ -9,3 +9,6 @@ Kế hoạch học tập 1 tuần:
 - Học cách chụp ảnh đẹp
 - Học cách giao tiếp
 -Về quê thăm gia đình
+- Kế hoạch phát triển hệ thống du lịch
+- Kế hoạch 1 tuần đi đà lạt
+- Kế hoạch 1 tuần đi ăn uống
