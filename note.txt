@@ -1,5 +1,3 @@
 - Git rất hữu ích cho việc làm nhóm
 - Giúp lưu lại lịch sử thay đổi của dự án
 - Hỗ trợ phục hồi khi lỡ xóa file
-- Cần luyện tập reset và revert thường xuyên
-- Tránh xóa nhầm commit
