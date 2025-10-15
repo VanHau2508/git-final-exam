@@ -1,1 +1,3 @@
 Hello, this is Lê Văn Hậu
+Xin chào, tôi là Lê Văn Hậu
+Tôi đang học về Git conflict resolution
