@@ -1,0 +1,11 @@
+Kế hoạch học tập 1 tuần:
+- Ôn Git và GitHub
+- Học merge & rebase
+- Học Tiếng Anh
+- Học Python
+- Ôn Thi VSTEP
+- Tập thể dục
+- Tập Gym
+- Học cách chụp ảnh đẹp
+- Học cách giao tiếp
+-Về quê thăm gia đình
